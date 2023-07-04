@@ -1,2 +1,2 @@
 # LGMVIP---Web---Task-1
-This is a repository for To-do List project using HTML,CSS,JS.
+This repository contains all the projects that I have created in my web development internship at Let's Grow More.
